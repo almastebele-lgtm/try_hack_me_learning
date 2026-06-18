@@ -1,0 +1,68 @@
+The Linux Command Line Interface (CLI) allows users to interact with the operating system by typing commands. Unlike a graphical interface, the CLI provides direct control over files, directories, processes, and system settings.
+Linux is widely used in servers, cloud environments, and cybersecurity.
+
+Navigating the File System
+
+pwd
+Displays the current working directory.
+pwd
+
+ls
+Lists files and directories.
+ls
+
+cd
+Changes the current directory.
+cd Documents
+
+Working with Files and Directories
+mkdir
+Creates a new directory.
+mkdir test
+
+touch
+Creates an empty file.
+touch notes.txt
+
+cp
+Copies files or directories.
+cp file.txt backup.txt
+
+mv
+Moves or renames files.
+mv old.txt new.txt
+
+rm
+Removes files or directories.
+rm file.txt
+
+Viewing File Contents
+cat
+Displays file contents.
+cat notes.txt
+
+less
+Allows viewing large files one page at a time.
+less notes.txt
+
+User Privileges
+sudo
+Executes commands with elevated privileges.
+sudo apt update
+
+Use sudo carefully, as it can make system-wide changes.
+
+
+Many cybersecurity tools and servers run on Linux. Understanding the command line is essential for:
+
+System administration
+Log analysis
+Security testing
+Incident response
+
+Key Takeaways:
+The Linux CLI provides direct control of the operating system.
+Commands such as pwd, ls, and cd are used for navigation.
+Files and directories can be managed through the terminal.
+sudo allows administrative actions.
+Linux command-line skills are fundamental in cybersecurity.
