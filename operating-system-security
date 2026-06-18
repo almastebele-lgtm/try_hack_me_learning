@@ -1,0 +1,56 @@
+Operating System (OS) security focuses on protecting a computer's operating system from unauthorized access, malware, and other cyber threats. A secure operating system helps protect both the device and the data it contains.
+
+User Accounts and Permissions
+Access to an operating system should be controlled through user accounts and permissions.
+
+Key principles:
+
+Use strong passwords
+Enable Multi-Factor Authentication (MFA) where possible
+Follow the principle of least privilege
+Limit administrator access
+Software Updates
+
+Operating systems regularly receive security updates that fix vulnerabilities and improve protection.
+
+Keeping systems updated helps prevent attackers from exploiting known weaknesses.
+
+Malware Protection
+
+Security tools help detect and prevent malicious software.
+
+Common examples:
+
+Antivirus software
+Endpoint Detection and Response (EDR)
+Built-in security features such as Windows Defender
+
+Firewalls
+A firewall monitors and controls incoming and outgoing network traffic.
+
+Benefits:
+
+Blocks unauthorized connections
+Reduces exposure to attacks
+Helps protect devices connected to a network
+Data Protection
+
+Sensitive information should be protected through:
+
+Encryption
+Backups
+Access controls
+
+These measures help reduce the impact of device loss, theft, or compromise.
+
+
+Many cyberattacks target operating systems through unpatched vulnerabilities, weak passwords, or misconfigurations.
+
+Strong OS security reduces the attack surface and helps maintain system integrity.
+
+Key Takeaways:
+Operating system security protects devices and data from threats.
+User permissions and least privilege are important security controls.
+Regular updates help address known vulnerabilities.
+Firewalls, antivirus tools, and encryption strengthen security.
+A secure operating system is a foundation of overall cybersecurity.
