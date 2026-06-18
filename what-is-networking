@@ -1,0 +1,64 @@
+What is Networking?
+
+A network is a collection of connected devices that can communicate and share information. 
+Networks are a fundamental part of modern life and are used in everything from home Wi-Fi to global Internet infrastructure.
+In computing, networks can range from two connected devices to billions of devices communicating across the Internet.
+
+Private and Public Networks:
+
+Private Network
+A network used within a limited environment such as a home, school, or company.
+
+Public Network
+A network accessible over the Internet that connects many private networks together.
+
+The Internet is essentially a large public network made up of countless smaller networks.
+
+Device Identification:
+
+Devices on a network need unique identifiers to communicate.
+
+IP Address:
+
+An IP address identifies a device on a network.
+
+Examples:
+
+192.168.1.77 (private IP)
+86.157.52.21 (public IP)
+
+Public IP addresses identify devices on the Internet, while private IP addresses identify devices within local networks.
+
+IPv4 vs IPv6
+
+IPv4 uses 32-bit addresses and has a limited number of available addresses.
+IPv6 was introduced to solve address shortages and supports a vastly larger number of devices.
+
+MAC Address:
+
+A MAC (Media Access Control) address is a unique identifier assigned to a device's network interface.
+
+Example:
+
+a4:c3:f0:85:ac:2d
+
+Unlike IP addresses, MAC addresses are tied to hardware but can be spoofed by attackers.
+
+Ping:
+
+Ping is a basic networking tool used to test connectivity between devices.
+
+It uses ICMP (Internet Control Message Protocol) packets to determine whether a device is reachable and measure response times.
+
+Example:
+
+ping 8.8.8.8
+
+Ping is commonly used for troubleshooting and network diagnostics.
+
+Key Takeaways:
+Networks connect devices and enable communication.
+The Internet is a collection of interconnected networks.
+Devices are identified using IP addresses and MAC addresses.
+IPv6 was developed to address IPv4 limitations.
+Ping is a simple tool for testing network connectivity.
