@@ -1,0 +1,68 @@
+Cloud computing is the delivery of computing services over the Internet. Instead of owning and maintaining physical hardware, organizations can access resources such as servers, storage, and applications on demand.
+Cloud services provide flexibility, scalability, and cost efficiency.
+
+Why Use the Cloud?
+
+Reduced hardware costs
+Scalability based on demand
+Access from anywhere with an Internet connection
+Faster deployment of services
+Simplified maintenance
+
+Cloud Service Models:
+
+Infrastructure as a Service (IaaS)
+Provides virtualized computing resources such as servers, storage, and networking.
+
+Examples:
+Amazon EC2
+Microsoft Azure Virtual Machines
+
+Platform as a Service (PaaS)
+Provides a platform for developing and deploying applications without managing underlying infrastructure.
+
+Examples:
+Google App Engine
+Azure App Service
+
+Software as a Service (SaaS)
+Provides complete applications over the Internet.
+
+Examples:
+
+Gmail
+Microsoft 365
+Dropbox
+
+Cloud Deployment Models
+
+Public Cloud
+Resources are owned and managed by a third-party provider and shared among customers.
+
+Private Cloud
+Cloud infrastructure dedicated to a single organization.
+
+Hybrid Cloud
+A combination of public and private cloud environments.
+
+Cloud Security Considerations
+
+Organizations must protect:
+
+User accounts
+Sensitive data
+Cloud configurations
+Access permissions
+
+Common security controls include:
+
+Multi-Factor Authentication (MFA)
+Encryption
+Access control policies
+Continuous monitoring
+
+Key Takeaways:
+Cloud computing delivers IT resources over the Internet.
+IaaS, PaaS, and SaaS are the main service models.
+Public, private, and hybrid clouds are common deployment models.
+Security remains a shared responsibility between the provider and the customer.
