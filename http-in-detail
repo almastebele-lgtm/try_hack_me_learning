@@ -1,0 +1,90 @@
+What is HTTP?
+
+HTTP (HyperText Transfer Protocol) is the protocol used for communication between web clients (browsers) and web servers.
+It defines how requests and responses are structured when accessing websites.
+
+E.g.:
+
+Browser requests a webpage
+Server sends back the webpage content
+How HTTP Works
+
+When you visit a website:
+
+1.Your browser sends an HTTP request to a server
+2.The server processes the request
+3.The server sends back an HTTP response
+4.Your browser renders the content (HTML, CSS, JS)
+
+HTTP Request Structure
+An HTTP request contains:
+
+Method (GET, POST, etc.)
+URL / Path (e.g. /login)
+Headers (extra metadata like browser type)
+Optional body (data sent to server)
+
+Common HTTP Methods:
+GET → retrieve data
+POST → send data
+PUT → update data
+DELETE → remove data
+
+HTTP Response Structure
+A server response includes:
+
+Status code
+Headers
+Body (actual content)
+Common Status Codes
+200 → OK (success)
+301 → Redirect
+400 → Bad request
+401 → Unauthorized
+403 → Forbidden
+404 → Not found
+500 → Server error
+
+Stateless Protocol
+HTTP is stateless, meaning:
+
+Each request is independent
+The server does not remember previous requests by default
+
+To maintain sessions, websites use:
+
+Cookies
+Sessions
+Tokens
+
+HTTP vs HTTPS:
+
+HTTP:
+Not encrypted
+Data sent in plaintext
+Vulnerable to interception
+
+HTTPS:
+Encrypted using TLS
+Protects confidentiality and integrity
+Verifies server identity using certificates
+
+Why HTTP Matters in Cybersecurity
+HTTP is commonly targeted because it handles:
+
+Login credentials
+Session tokens
+Sensitive user data
+
+Attackers may exploit HTTP traffic through:
+
+Man-in-the-middle attacks
+Session hijacking
+Credential theft
+
+Key Takeaways:
+HTTP is the protocol used for web communication.
+It uses requests and responses between browser and server.
+Common methods include GET and POST.
+Status codes indicate request results.
+HTTPS adds encryption and security.
