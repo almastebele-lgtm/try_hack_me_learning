@@ -1,0 +1,73 @@
+Windows is one of the most widely used operating systems in homes, businesses, and government organizations. It provides a graphical user interface (GUI) that allows users to interact with files, applications, and system settings.
+Because of its popularity, Windows is a common target for cyberattacks.
+
+Key Components:
+
+Desktop
+The main workspace where users access applications, files, and shortcuts.
+
+File Explorer
+Used to navigate, organize, and manage files and folders.
+
+Task Manager
+Displays running processes, system performance, and resource usage.
+
+Useful for:
+
+Monitoring applications
+Identifying suspicious processes
+Troubleshooting performance issues
+
+Control Panel / Settings
+Used to configure system settings, devices, accounts, and security options.
+
+User Accounts
+Windows uses user accounts to control access to the system.
+
+Common account types:
+
+Standard User
+Limited permissions for everyday tasks.
+
+Administrator
+Full control over the system and its settings.
+
+Following the principle of least privilege, users should only have the access they need.
+
+File System
+Windows commonly uses the NTFS (New Technology File System).
+
+Features include:
+
+File permissions
+Encryption support
+Access control
+
+Windows Security Features
+
+Common security controls include:
+
+Windows Defender
+Windows Firewall
+User Account Control (UAC)
+Automatic updates
+
+These features help protect systems from malware and unauthorized access.
+
+Why important in cybersecurity:
+
+Windows systems are frequently targeted by attackers, making it important to understand:
+
+User permissions
+Running processes
+File locations
+Security settings
+
+Many cybersecurity investigations and enterprise environments involve Windows systems.
+
+Key Takeaways:
+Windows is one of the most widely used operating systems.
+File Explorer, Task Manager, and Settings are key administrative tools.
+User accounts and permissions help control access.
+Built-in security features help protect the system.
+Understanding Windows is essential for cybersecurity professionals.
