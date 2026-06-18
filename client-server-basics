@@ -1,0 +1,57 @@
+
+Many modern networks use the client-server model, where one device requests a service and another device provides it.
+This model is used for websites, email, cloud services, file sharing, and many other technologies.
+
+What is a Client?
+
+A client is a device or application that requests information or services.
+
+Examples:
+A web browser requesting a webpage
+An email application checking for new messages
+A smartphone accessing a cloud service
+
+The client initiates communication.
+
+What is a Server?
+
+A server is a device or application that provides information or services to clients.
+
+Examples:
+Web server hosting a website
+Database server storing information
+File server providing shared files
+
+A server listens for requests and responds when needed.
+
+How the Client-Server Model Works
+
+Example: Visiting a website
+
+A browser (client) requests a webpage.
+The web server receives the request.
+The server processes the request.
+The server sends a response back to the client.
+The browser displays the webpage.
+
+Advantages
+Centralized management
+Easier maintenance and updates
+Improved resource sharing
+Better access control
+Cybersecurity Considerations
+
+Because servers often store sensitive information, they are common targets for attackers.
+
+Security measures include:
+
+Authentication
+Access controls
+Encryption
+Monitoring and logging
+
+Key Takeaways:
+Clients request services; servers provide them.
+The client-server model is used throughout modern computing.
+Websites, email systems, and cloud services rely on this architecture.
+Protecting servers is a critical cybersecurity responsibility.
