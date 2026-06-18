@@ -1,0 +1,70 @@
+Data encoding is the process of converting information into a format that computers can store, process, and transmit. Encoding ensures that data is interpreted consistently across different systems and devices.
+
+Why Encoding is Needed
+
+Computers only understand binary data, but humans use letters, numbers, and symbols. Encoding provides a standard way to represent this information digitally.
+
+For example:
+
+A → 65 → 01000001
+ASCII
+
+ASCII (American Standard Code for Information Interchange) is one of the earliest character encoding standards.
+
+It assigns numerical values to characters.
+
+Examples:
+
+A = 65
+B = 66
+a = 97
+
+ASCII uses 7 bits and supports 128 characters.
+
+Unicode
+
+Unicode was developed to support characters from many different languages and writing systems.
+
+Benefits:
+
+Supports thousands of characters
+Allows global communication
+Standard across modern systems
+UTF-8
+
+UTF-8 is the most widely used Unicode encoding format.
+
+Features:
+
+Compatible with ASCII
+Efficient storage
+Used extensively on websites and modern applications
+Base64 Encoding
+
+Base64 converts binary data into readable text using letters, numbers, and symbols.
+
+Common uses:
+
+Email attachments
+Web applications
+Data transmission
+
+Base64 is encoding, not encryption. Encoded data can easily be decoded back to its original form.
+
+Why it maaters in cybersecurity:
+
+Security professionals encounter encoded data when:
+
+Analyzing web traffic
+Investigating malware
+Examining logs
+Working with APIs and authentication tokens
+
+Understanding encoding helps distinguish between encoded, encrypted, and hashed data.
+
+Key Takeaways:
+Encoding converts data into a standard format for storage and transmission.
+ASCII and Unicode are common character encoding standards.
+UTF-8 is the most widely used encoding format today.
+Base64 is commonly used to represent binary data as text.
+Encoding is not the same as encryption.
