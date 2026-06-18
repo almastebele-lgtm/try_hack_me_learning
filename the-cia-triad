@@ -1,0 +1,60 @@
+The CIA Triad is a foundational cybersecurity model that describes the three core objectives of information security:
+
+Confidentiality
+Integrity
+Availability
+
+Security controls are often designed to protect one or more of these principles.
+
+Confidentiality
+Confidentiality ensures that information is only accessible to authorized individuals.
+
+Examples:
+
+Passwords
+Encryption
+Access controls
+Multi-Factor Authentication (MFA)
+
+Without confidentiality, sensitive information could be exposed to unauthorized users.
+
+Integrity
+Integrity ensures that data remains accurate, complete, and unaltered.
+
+Examples:
+
+Hashing
+Digital signatures
+File permissions
+Version control
+
+Integrity helps detect unauthorized modifications to data.
+
+Availability
+Availability ensures that systems, services, and data are accessible when needed.
+
+Examples:
+
+Backups
+Redundant systems
+Disaster recovery plans
+DDoS protection
+
+Without availability, users may be unable to access critical resources.
+
+Why It Matters
+
+The CIA Triad provides a simple framework for understanding and evaluating security risks.
+
+For example:
+
+A data breach impacts Confidentiality
+Unauthorized file changes impact Integrity
+A system outage impacts Availability
+
+Key Takeaways:
+The CIA Triad consists of Confidentiality, Integrity, and Availability.
+Confidentiality protects data from unauthorized access.
+Integrity ensures data remains accurate and trustworthy.
+Availability ensures systems and information remain accessible.
+The CIA Triad is one of the most important concepts in cybersecurity.
