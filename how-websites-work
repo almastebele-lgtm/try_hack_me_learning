@@ -1,0 +1,82 @@
+Websites are systems that allow users to access content over the Internet using a browser. They rely on multiple technologies working together, including DNS, HTTP/HTTPS, web servers, and browsers.
+When you visit a website, your device communicates with a server to request and display information.
+
+Step-by-Step Process:
+
+When you enter a URL like www.example.com, the following happens:
+
+1. DNS Lookup
+Your browser first uses DNS to translate the domain name into an IP address.
+Example: example.com → 93.184.216.34
+
+2. Establishing a Connection
+Once the IP address is known, your browser connects to the web server using HTTP or HTTPS.
+If HTTPS is used:
+A secure encrypted connection is created using TLS
+
+3. HTTP Request
+Your browser sends an HTTP request to the server asking for the webpage.
+
+This request may include:
+
+Requested page (e.g. /index.html)
+Browser information
+Cookies or session data
+
+4. Server Response
+The web server processes the request and sends back a response.
+This response usually contains:
+
+HTML (structure of the page)
+CSS (styling)
+JavaScript (interactivity)
+
+5. Browser Rendering
+Your browser processes the response and builds the webpage:
+
+HTML defines structure
+CSS defines appearance
+JavaScript adds functionality
+
+The final result is what you see on your screen.
+
+Key Components of a Website:
+
+Web Browser
+Software used to access websites (Chrome, Firefox, Edge).
+
+Web Server
+A system that stores and delivers website content.
+
+DNS
+Translates domain names into IP addresses.
+
+HTTP/HTTPS
+Protocols used for communication between browser and server.
+
+Static vs Dynamic Websites
+
+Static Websites:
+Fixed content
+Same for every user
+Simple HTML/CSS pages
+
+Dynamic Websites:
+Content changes based on user or database
+Uses server-side processing (e.g. login systems, dashboards)
+
+Why does thys matter in cybersecurity?
+Understanding how websites work is important because many attacks target web infrastructure, such as:
+
+Phishing websites
+SQL injection
+Session hijacking
+Man-in-the-middle attacks
+Broken authentication
+
+Key Takeaways:
+Websites work through a combination of DNS, HTTP, and web servers.
+Browsers request data and servers respond with content.
+Pages are built using HTML, CSS, and JavaScript.
+HTTPS adds encryption for security.
+Web applications are common targets for cyberattacks.
