@@ -1,0 +1,79 @@
+DNS (Domain Name System) is responsible for translating human-readable domain names into IP addresses that computers use to communicate.
+Example:
+
+google.com → 142.250.x.x
+
+Without DNS, users would need to remember IP addresses instead of simple website names.
+
+Why does DNA Exist?
+
+Computers communicate using IP addresses, but humans prefer readable names.
+DNS acts like a “phonebook of the Internet,” matching domain names to the correct IP addresses.
+
+How DNS works in a nutshell:
+
+When you enter a website in your browser:
+
+1.The browser checks its local cache for the IP address.
+2.If not found, it sends a request to a DNS resolver.
+3.The resolver queries DNS servers.
+4.The correct IP address is returned.
+5.The browser connects to the web server using that IP.
+
+DNS Hierarchy
+DNS is structured in layers:
+
+Root DNS servers (top level)
+Top-Level Domain (TLD) servers (.com, .org, .net)
+Authoritative DNS servers (final source of truth for a domain)
+
+Each level helps narrow down the correct IP address.
+
+Common DNS Record Types:
+
+A Record
+Maps a domain name to an IPv4 address.
+
+AAAA Record
+Maps a domain name to an IPv6 address.
+
+CNAME Record
+Maps one domain name to another domain name.
+
+MX Record
+Defines mail servers for email routing.
+
+DNS Caching
+To improve performance, DNS results are stored temporarily in cache.
+
+This means:
+
+Faster website loading
+Reduced DNS traffic
+Temporary storage of previous lookups
+Security Risks in DNS
+
+DNS can be targeted by attackers through:
+
+DNS spoofing (returning false IP addresses)
+DNS hijacking (redirecting traffic)
+Cache poisoning (corrupting stored DNS data)
+
+These attacks can redirect users to malicious websites.
+
+Why does DNS matter in cybersecurity?
+
+DNS is often used in:
+
+Tracking malicious domains
+Detecting phishing websites
+Investigating command-and-control servers
+Monitoring network traffic
+
+Understanding DNS is essential for both offensive and defensive security.
+
+Key Takeaways:
+DNS translates domain names into IP addresses.
+It works like a hierarchical distributed database.
+DNS caching improves performance but can be abused.
+DNS is a common target in cyberattacks.
