@@ -1,0 +1,101 @@
+Personal Computers (PCs):
+Personal computers are designed for individual use.
+
+Examples:
+Desktop computers
+Laptops
+
+Characteristics:
+General-purpose use
+Used for browsing, work, and applications
+Found in homes and offices
+
+Servers
+Servers are powerful computers designed to provide services to other devices over a network.
+
+Common services:
+
+Websites (web servers)
+File storage
+Databases
+Authentication systems
+
+Characteristics:
+High performance
+Always running (24/7)
+Often located in data centers
+
+Servers are critical targets in cyberattacks due to the sensitive data they store.
+
+Mobile Devices
+Mobile devices are portable computing systems.
+
+Examples:
+Smartphones
+Tablets
+
+Characteristics:
+Wireless connectivity (Wi-Fi, mobile data)
+Limited processing power compared to servers
+High user interaction
+
+Embedded Systems
+
+Embedded systems are specialized computers built into larger devices.
+
+Examples:
+Smart TVs
+Traffic lights
+Cars
+IoT devices (smart thermostats, cameras)
+
+Characteristics:
+Perform specific tasks
+Limited user interaction
+Often resource-constrained
+Mainframe Computers
+
+Mainframes are large, powerful systems used for processing massive amounts of data.
+
+Used by:
+Banks
+Governments
+Large corporations
+
+Characteristics:
+Extremely reliable
+High processing power
+Support thousands of simultaneous users
+
+Client vs Server Model
+
+Client
+A device that requests services or resources.
+
+Example:
+Web browser requesting a webpage
+
+Server
+A device that provides services or resources.
+
+Example:
+
+Web server hosting a website
+
+Why does this matter in cybersecurity?
+
+Different computer types have different risk profiles:
+
+PCs are often targeted by malware and phishing
+Servers are targeted for data theft and disruption
+Mobile devices are vulnerable to app-based attacks
+Embedded systems may have weak security and are hard to patch
+
+Key Takeaways:
+Computers come in different types based on purpose.
+Servers provide services, while clients request them.
+Embedded systems are specialized and often overlooked in security.
+Understanding system types helps identify potential attack targets.
+Servers provide services, while clients request them.
+Embedded systems are specialized and often overlooked in security.
+Understanding system types helps identify potential attack targets.
