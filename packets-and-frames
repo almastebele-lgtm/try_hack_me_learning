@@ -1,0 +1,46 @@
+When data is transmitted across a network, it is broken into smaller pieces to make communication more efficient. Two important units of data are packets and frames.
+Although they carry the same information, they operate at different layers of the OSI Model.
+
+Packets:
+A packet is the unit of data used at the Network Layer (Layer 3).
+
+A packet contains:
+
+Source IP address
+Destination IP address
+Data payload
+
+Routers use packet information to determine where data should be sent across networks.
+
+Frames:
+A frame is the unit of data used at the Data Link Layer (Layer 2).
+
+A frame contains:
+
+Source MAC address
+Destination MAC address
+Data payload
+
+Switches use frames to deliver data between devices on the same local network.
+
+How do they work together?
+
+When data is sent across a network:
+
+Data is placed into a packet with IP addressing information.
+The packet is then encapsulated into a frame containing MAC addresses.
+The frame is transmitted across the local network.
+Routers use the packet information to forward traffic between networks.
+
+Packet VS Frame
+Packet - Layer 3 (Network); Uses IP addresses; Routed between networks
+Frame - Layer 2 (Data Link); Uses MAC addresses; Delivered within local networks
+
+Why It Matters:
+Understanding packets and frames helps explain how devices communicate and how network traffic is analyzed during troubleshooting and security investigations.
+
+Key Takeaways:
+Data is transmitted across networks in small units.
+Packets operate at Layer 3 and use IP addresses.
+Frames operate at Layer 2 and use MAC addresses.
+Packets are routed between networks, while frames are used within local networks.
