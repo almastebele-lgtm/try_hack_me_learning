@@ -1,0 +1,68 @@
+As networks grow, they need to be expanded to support more devices, improve performance, and maintain security. Extending a network involves adding or configuring devices and technologies that allow communication to scale beyond a small setup.
+
+Why Networks Need to Be Extended
+Networks are expanded for several reasons:
+
+Increasing number of users and devices
+Expanding physical coverage area
+Improving performance and speed
+Segmenting traffic for security
+Supporting new services and applications
+
+Common Ways to Extend a Network:
+
+Switches
+Switches connect multiple devices within a Local Area Network (LAN). Adding more switches allows more devices to join the network.
+They help:
+
+Increase the number of connected devices
+Reduce network congestion
+Improve internal communication efficiency
+
+Routers
+Routers connect different networks together, such as a home network to the Internet.
+They help:
+
+Route traffic between networks
+Assign IP addresses (via DHCP)
+Provide basic network security features
+
+Wireless Access Points (WAPs)
+Wireless Access Points allow devices to connect to a network wirelessly.
+
+They are used to:
+
+Extend Wi-Fi coverage
+Support mobile devices
+Eliminate the need for physical cables
+Repeaters and Extenders
+
+These devices strengthen or repeat network signals to increase coverage in larger areas.
+
+They are useful in:
+
+Large buildings
+Areas with weak Wi-Fi signals
+VLANs (Virtual Local Area Networks)
+
+A VLAN is a logical separation of devices within the same physical network.
+
+Benefits:
+
+Improves security by isolating traffic
+Reduces broadcast traffic
+Organizes networks into functional groups (e.g., HR, IT, Finance)
+Real-World Example
+
+In a company:
+
+Switches connect employee devices in each office
+Routers connect the company network to the Internet
+Access points provide Wi-Fi across floors
+VLANs separate departments for security
+
+Key Takeaways:
+Networks are extended to support growth and improve performance.
+Switches, routers, and access points are key hardware components.
+VLANs allow logical separation of networks for security and organization.
+Proper network design improves scalability and security.
