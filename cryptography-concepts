@@ -1,0 +1,74 @@
+Cryptography is the practice of protecting information by transforming it into unreadable formats so that only authorized parties can access or understand it. It is a core pillar of cybersecurity used to ensure confidentiality, integrity, and authentication.
+
+Hashing
+Hashing is a process that converts input data into a fixed-length output called a hash.
+
+Key properties:
+
+One-way function (cannot be reversed)
+Same input always produces the same output
+Small changes in input produce completely different output
+
+Example uses:
+Password storage
+File integrity checking
+Digital forensics
+
+Example:
+password123 → a8b64... (hash value)
+
+Encryption
+Encryption transforms readable data (plaintext) into unreadable data (ciphertext) using an algorithm and a key.
+
+There are two main types:
+
+Symmetric Encryption:
+
+Same key is used for encryption and decryption
+Faster and efficient
+Example: AES
+
+Asymmetric Encryption:
+
+Uses a public key and a private key
+Public key encrypts, private key decrypts
+Example: RSA
+
+Digital Signatures
+Digital signatures are used to verify authenticity, integrity, and non-repudiation.
+
+Process:
+
+1.A hash of the message is created
+2.The hash is signed using a private key
+3.The recipient verifies the signature using the public key
+4.Hashes are compared to ensure integrity
+
+Non-Repudiation
+Non-repudiation ensures that a sender cannot deny sending a message.
+
+It is achieved using:
+
+Digital signatures
+Public/private key cryptography
+
+This is important in legal and financial systems.
+
+Why It Matters
+
+Cryptography is used everywhere in cybersecurity:
+
+Secure web traffic (HTTPS)
+Password storage
+Secure messaging apps
+VPN connections
+Digital certificates
+
+Without cryptography, modern secure communication would not be possible.
+
+Key Takeaways:
+Cryptography protects data through hashing and encryption.
+Hashing is one-way and used for integrity.
+Encryption protects confidentiality and can be reversed with keys.
+Digital signatures provide authentication and non-repudiation.
+Cryptography is essential for secure communication systems.
