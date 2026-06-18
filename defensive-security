@@ -1,0 +1,39 @@
+What is Defensive Security?
+
+Defensive security focuses on protecting systems, networks, and data from cyber threats. 
+The goal is to prevent attacks, detect malicious activity, and respond to incidents effectively.
+
+Main Objectives:
+Prevent unauthorized access
+Detect suspicious activity
+Respond to security incidents
+Protect the confidentiality, integrity, and availability of data
+
+Common Defensive Security Activities:
+
+Security Monitoring
+Monitoring systems and network traffic for signs of malicious activity.
+
+Incident Response
+Investigating and responding to security incidents.
+
+Vulnerability Management
+Identifying and remediating security weaknesses before they can be exploited.
+
+Security Awareness
+Training users to recognize threats such as phishing and social engineering.
+
+Common Tools:
+SIEM platforms
+Antivirus and Endpoint Detection & Response (EDR)
+Firewalls
+Intrusion Detection Systems (IDS)
+Security Operations Center (SOC)
+
+A Security Operations Center (SOC) is a team responsible for monitoring, detecting, investigating, and responding to cybersecurity threats.
+
+Key Takeaways
+Defensive security focuses on protecting systems and data.
+Security teams work to prevent, detect, and respond to threats.
+Monitoring and incident response are core defensive security functions.
+Strong security requires both defensive and offensive security practices.
