@@ -1,0 +1,46 @@
+What is a LAN?
+
+A Local Area Network (LAN) is a network that connects devices within a limited geographical area, such as a home, school, office, or university campus.
+LANs allow devices to communicate with each other and share resources such as files, printers, and Internet access.
+
+Devices Found in a LAN
+Common devices include:
+
+Computers and laptops
+Smartphones and tablets
+Printers
+Servers
+Routers
+Switches
+
+These devices communicate using network protocols and unique IP addresses.
+
+Switches and Routers:
+
+Switch
+A switch connects devices within the same network and forwards data to the correct destination.
+
+Router
+A router connects different networks together and provides access to the Internet.
+
+Most home networks use both a router and a switch, often combined into a single device.
+
+LAN Topologies:
+
+A topology describes how devices are connected within a network.
+
+Common examples include:
+
+Star topology
+Bus topology
+Ring topology
+
+Modern LANs typically use a star topology, where all devices connect through a central switch.
+
+Why LANs Matter
+
+LANs are the foundation of most home and business networks. Understanding how devices communicate within a local network is essential for troubleshooting, network administration, and cybersecurity.
+
+Key Takeaways:
+A LAN connects devices within a limited area.
+Devices on a LAN can share resources
