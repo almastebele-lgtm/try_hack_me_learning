@@ -1,0 +1,74 @@
+The Open Systems Interconnection (OSI) Model is a conceptual framework used to understand how data travels across a network. It divides network communication into seven layers, each with a specific function.
+The model helps network engineers and security professionals troubleshoot and understand network traffic.
+
+The 7 Layers:
+
+Layer 7 – Application
+Provides network services directly to applications and users.
+Examples:
+
+HTTP
+HTTPS
+DNS
+SMTP
+
+Layer 6 – Presentation
+Responsible for data formatting, compression, and encryption.
+
+Layer 5 – Session
+Establishes, maintains, and terminates communication sessions between devices.
+
+Layer 4 – Transport
+Provides end-to-end communication between hosts.
+
+Common protocols:
+TCP (reliable)
+UDP (faster, less reliable)
+
+Layer 3 – Network
+Responsible for routing packets between networks.
+
+Uses:
+IP addresses
+Routers
+
+Layer 2 – Data Link
+Handles communication between devices on the same local network.
+
+Uses:
+MAC addresses
+Frames
+
+Layer 1 – Physical
+Transmits raw bits through physical media.
+
+Examples:
+
+Ethernet cables
+Fiber optic cables
+Wireless signals
+Why the OSI Model Matters
+
+The OSI Model provides a structured way to understand how networks operate and where problems may occur.
+
+For example:
+
+DNS issues occur at Layer 7
+IP addressing occurs at Layer 3
+Network cables operate at Layer 1
+
+Understanding the OSI Model is fundamental for networking and cybersecurity.
+
+Physical
+Data Link
+Network
+Transport
+Session
+Presentation
+Application
+
+Key Takeaways:
+The OSI Model divides networking into seven layers.
+Each layer performs a specific function.
+Layer 3 uses IP addresses, while Layer 2 uses MAC addresses.
+The model helps troubleshoot and understand network communication.
