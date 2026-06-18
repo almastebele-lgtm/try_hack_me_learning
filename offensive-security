@@ -1,0 +1,42 @@
+What is Offensive Security?
+
+Offensive security involves actively testing systems, networks, and applications to identify vulnerabilities before malicious attackers can exploit them.
+The goal is to find weaknesses, demonstrate their impact, and help organizations improve their security.
+
+Ethical Hacking
+
+Ethical hackers perform authorized security testing and follow defined rules of engagement.
+
+Unlike malicious attackers, they:
+
+Obtain permission before testing
+Report vulnerabilities responsibly
+Help organizations strengthen security
+
+Common Activities:
+
+Reconnaissance
+Gathering information about a target.
+
+Vulnerability Assessment
+Identifying security weaknesses and misconfigurations.
+
+Exploitation
+Demonstrating how vulnerabilities could be abused.
+
+Reporting
+Documenting findings and providing recommendations.
+
+Common Tools:
+Nmap
+Burp Suite
+Wireshark
+Metasploit
+
+Tools support the tester but do not replace technical knowledge.
+
+Key Takeaways
+Offensive security focuses on identifying vulnerabilities through authorized testing.
+Ethical hackers help organizations improve their security posture.
+Testing typically involves reconnaissance, vulnerability assessment, exploitation, and reporting.
+Offensive and defensive security work together to strengthen cybersecurity.
