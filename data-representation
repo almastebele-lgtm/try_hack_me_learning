@@ -1,0 +1,87 @@
+Computers store and process all information using binary, a numbering system that uses only two values: 0 and 1. Everything from text and images to videos and applications is ultimately represented as binary data.
+
+Binary
+A binary digit is called a bit.
+
+Examples:
+
+0
+1
+
+Bits are combined to represent larger values.
+
+Byte
+
+A byte consists of 8 bits.
+
+Example:
+
+01000001
+
+This binary value represents the letter A in ASCII.
+
+
+  Number Systems
+
+Computers commonly use different numbering systems:
+
+Binary (Base 2)
+
+Uses:
+
+0
+1
+
+Example:
+
+1010
+Decimal (Base 10)
+
+The numbering system humans use every day.
+
+Uses:
+
+0–9
+
+Example:
+
+10
+Hexadecimal (Base 16)
+
+Uses:
+
+0–9
+A–F
+
+Example:
+
+0xA
+
+Hexadecimal is often used because it provides a shorter representation of binary data.
+
+
+Why Computers Use Binary
+
+Computer hardware relies on electrical signals that are either:
+
+On (1)
+Off (0)
+
+Binary allows computers to reliably store and process information using these two states.
+
+
+Security professionals often encounter binary and hexadecimal data when:
+
+Analyzing files
+Investigating malware
+Examining memory
+Reading network traffic
+
+Understanding data representation helps explain how information is stored and transmitted.
+
+Key Takeaways:
+Computers store data using binary (0s and 1s).
+A bit is the smallest unit of data.
+A byte consists of 8 bits.
+Binary, decimal, and hexadecimal are commonly used number systems.
+Understanding data representation is important for cybersecurity analysis.
