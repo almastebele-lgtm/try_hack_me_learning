@@ -1,0 +1,51 @@
+Virtualisation is the process of creating virtual versions of computers, operating systems, storage, or networks. It allows multiple virtual machines (VMs) to run on a single physical computer.
+This improves resource utilization and makes testing and deployment more efficient.
+
+Virtual Machines (VMs)
+
+A Virtual Machine is a software-based computer that behaves like a physical computer.
+
+Each VM has its own:
+
+Operating system
+Memory allocation
+Storage
+Applications
+
+Multiple VMs can run independently on the same physical host.
+
+Hypervisors
+
+A hypervisor is software that creates and manages virtual machines.
+
+Common examples:
+
+VirtualBox
+VMware
+Hyper-V
+
+The hypervisor allocates hardware resources to each VM.
+
+Benefits of Virtualisation
+Better use of hardware resources
+Reduced costs
+Easier backups and recovery
+Safe testing environments
+Ability to run multiple operating systems on one machine
+
+Virtualisation in Cybersecurity
+
+Virtual machines are widely used for:
+
+Malware analysis
+Penetration testing labs
+Security research
+Isolated testing environments
+
+If a VM becomes compromised, it can often be reset without affecting the host system.
+
+Key Takeaways:
+Virtualisation allows multiple virtual systems to run on one physical computer.
+Virtual machines operate independently from each other.
+Hypervisors manage and allocate resources to VMs.
+Virtualisation is widely used in cybersecurity for testing and analysis.
