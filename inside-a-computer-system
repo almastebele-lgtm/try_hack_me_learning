@@ -1,0 +1,98 @@
+A computer system is made up of hardware and software components that work together to process, store, and transmit data.
+
+Main Hardware Components:
+
+CPU (Central Processing Unit)
+The CPU is the “brain” of the computer. It executes instructions and performs calculations.
+
+Key functions:
+Processes instructions from software
+Performs arithmetic and logic operations
+Controls other hardware components
+
+
+RAM (Random Access Memory)
+RAM is temporary memory used while a computer is running.
+
+Key characteristics:
+Fast access speed
+Data is lost when the computer is turned off
+Stores active processes and applications
+
+
+Storage (HDD / SSD)
+Storage holds data permanently.
+
+Types:
+HDD (Hard Disk Drive): slower, mechanical
+SSD (Solid State Drive): faster, no moving parts
+
+Used for:
+Operating systems
+Applications
+User files
+
+
+Motherboard
+The motherboard connects all hardware components together and allows communication between them.
+
+It includes:
+CPU socket
+RAM slots
+Storage connections
+Peripheral ports
+
+
+Power Supply Unit (PSU)
+
+The PSU provides power to all components inside the computer.
+It converts electricity from an outlet into usable power for the system.
+
+
+Software in a Computer System
+Software provides instructions for hardware to execute.
+
+System Software
+Operating systems (Windows, Linux, macOS)
+Manages hardware resources
+
+Application Software
+Web browsers
+Games
+Productivity tools
+
+
+Data Processing Cycle
+A computer processes data in a cycle:
+
+Input (data is received)
+Processing (CPU processes data)
+Output (results are shown)
+Storage (data is saved if needed)
+
+
+How Components Work Together
+
+Example: opening a program
+
+Stored program is loaded from SSD into RAM
+CPU retrieves instructions from RAM
+CPU processes instructions
+Output is displayed on screen
+
+
+Why It Matters in Cybersecurity
+
+Understanding computer internals helps:
+
+Identify malware behavior (CPU/RAM usage)
+Analyze system performance issues
+Understand how exploits affect memory
+Investigate system compromise
+
+Key Takeaways:
+A computer system combines hardware and software.
+CPU processes instructions, RAM stores active data, and storage keeps permanent files.
+The motherboard connects all components.
+The OS manages communication between hardware and software.
+Understanding system internals is essential for cybersecurity analysis.
