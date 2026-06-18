@@ -1,0 +1,68 @@
+A database is a structured collection of data used to store, organize, and retrieve information efficiently. Many applications, websites, and business systems rely on databases to manage data.
+
+SQL (Structured Query Language) is the standard language used to interact with databases.
+
+Tables
+Databases store information in tables made up of rows and columns.
+Example:
+
+ID	Name	Department
+1	Alice	HR
+2	Bob	IT
+Rows represent records
+Columns represent attributes
+
+Common SQL Commands:
+
+SELECT
+Retrieves data from a database.
+SELECT * FROM employees;
+
+INSERT
+Adds new data to a table.
+INSERT INTO employees (Name, Department)
+VALUES ('Alice', 'HR');
+
+UPDATE
+Modifies existing data.
+
+UPDATE employees
+SET Department = 'IT'
+WHERE Name = 'Alice';
+
+DELETE
+Removes data from a table.
+DELETE FROM employees
+WHERE Name = 'Alice';
+
+Databases in Everyday Life
+
+Databases are used by:
+
+Websites
+Online stores
+Banks
+Social media platforms
+Healthcare systems
+
+Almost every modern application stores information in a database.
+
+SQL and Cybersecurity
+
+Databases often contain sensitive information such as:
+
+User accounts
+Password hashes
+Personal data
+Financial records
+
+Poorly secured databases can be targeted by attackers.
+
+One common attack is SQL Injection, where malicious SQL commands are inserted into user input to manipulate a database.
+
+Key Takeaways:
+Databases store information in tables consisting of rows and columns.
+SQL is used to create, retrieve, update, and delete data.
+Common SQL commands include SELECT, INSERT, UPDATE, and DELETE.
+Databases are widely used in modern applications.
+Securing databases is important because they often contain sensitive information.
